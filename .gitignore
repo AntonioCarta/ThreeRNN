@@ -1,0 +1,16 @@
+.DS_Store
+embeddings
+data
+dataSNLI
+scorer_and_baseline
+SemEval2016_task3_test_format_checker
+models
+outputfiles
+predictions_dump/*.p
+*.pyc
+__pycache__
+.vscode
+.idea
+*.csv
+*.conll
+.vscode
