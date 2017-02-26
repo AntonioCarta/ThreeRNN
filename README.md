@@ -1,5 +1,5 @@
 ## Authors
-- [Giuseppe Attardi]{https://github.com/attardi}
+- [Giuseppe Attardi](https://github.com/attardi)
 - [Antonio Carta](https://github.com/AntonioCarta)
 - [Federico Errica](https://github.com/diningphil)
 - [Andrea Madotto](https://github.com/andreamad8)
